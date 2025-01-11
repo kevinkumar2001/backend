@@ -70,4 +70,4 @@ WORKDIR /var/www
 COPY . .
 
 ENTRYPOINT ["docker-entrypoint"]
-CMD ["php-fpm"]￼Enter
+CMD ["php-fpm"]
